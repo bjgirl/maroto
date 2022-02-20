@@ -233,6 +233,9 @@ func (s *PdfMaroto) GetPageMargins() (left float64, top float64, right float64, 
 
 	return
 }
+func (s *PdfMaroto) SetTopMargin(top float64) {
+	s.marginTop = top
+}
 
 // Signature add a space for a signature inside a cell,
 // the space will have a line and a text below.
