@@ -1,9 +1,9 @@
 package internal
 
 import (
-	"github.com/johnfercher/maroto/pkg/color"
-	"github.com/johnfercher/maroto/pkg/consts"
-	"github.com/johnfercher/maroto/pkg/props"
+	"github.com/bjgirl/maroto/pkg/color"
+	"github.com/bjgirl/maroto/pkg/consts"
+	"github.com/bjgirl/maroto/pkg/props"
 )
 
 const (

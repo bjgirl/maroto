@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/johnfercher/maroto/internal"
-	"github.com/johnfercher/maroto/internal/mocks"
-	"github.com/johnfercher/maroto/pkg/color"
-	"github.com/johnfercher/maroto/pkg/consts"
-	"github.com/johnfercher/maroto/pkg/props"
+	"github.com/bjgirl/maroto/internal"
+	"github.com/bjgirl/maroto/internal/mocks"
+	"github.com/bjgirl/maroto/pkg/color"
+	"github.com/bjgirl/maroto/pkg/consts"
+	"github.com/bjgirl/maroto/pkg/props"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )
