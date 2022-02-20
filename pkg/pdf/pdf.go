@@ -58,6 +58,7 @@ type Maroto interface {
 	GetCurrentPage() int
 	GetCurrentOffset() float64
 	SetPageMargins(left, top, right float64)
+	SetTopMargin(top float64)
 	GetPageMargins() (left float64, top float64, right float64, bottom float64)
 	SetCompression(compress bool)
 
